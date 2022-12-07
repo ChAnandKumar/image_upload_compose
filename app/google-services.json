@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284820779529",
+    "project_id": "fileupload-fbfa3",
+    "storage_bucket": "fileupload-fbfa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284820779529:android:f3adbd086b612fe3547ed8",
+        "android_client_info": {
+          "package_name": "com.example.fileupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284820779529-dafkcugo4uddant6u3fs2kgucim2sjtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH6L36JV25R14w-blTAPPCxye2C6cJh44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284820779529-dafkcugo4uddant6u3fs2kgucim2sjtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
